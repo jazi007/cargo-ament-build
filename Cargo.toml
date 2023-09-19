@@ -17,4 +17,5 @@ anyhow = "1"
 cargo-manifest = "0.11"
 pico-args = "0.5"
 # safe_drive_msg = { path = "../safe_drive_msg" }
-safe_drive_msg = "0.2"
+# safe_drive_msg = "0.2"
+safe_drive_msg = { git = "https://github.com/jazi007/safe_drive_msg.git", branch = "develop"}
