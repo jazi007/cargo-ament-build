@@ -14,7 +14,7 @@ keywords = ["ros2", "colcon", "ament"]
 
 [dependencies]
 anyhow = "1"
-cargo-manifest = "0.11"
+cargo-manifest = "0.10.0"
 pico-args = "0.5"
 # safe_drive_msg = { path = "../safe_drive_msg" }
 safe_drive_msg = "0.2"
